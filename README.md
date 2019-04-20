@@ -281,3 +281,10 @@ By default, the batch and hsqldb profiles are active.  To run the application wi
 ```
 java -jar build/libs/example-1.0.0.jar --spring.profiles.active=mysql,batch
 ```
+```
+https://www.youtube.com/watch?v=hBO44wKy2zQ&list=PLGDwUiT1wr6-Fn3N2oqJpTdhGjFHnIIKY&index=7&t=70s
+```
+Open web brower login ith account : 
+security.user.name=leanstacks
+security.user.password=s3cur!T
+```
